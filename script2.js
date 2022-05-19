@@ -1,0 +1,2 @@
+document.write("<h1>Estamos executando o script2.js</h1>"); //função de js escrevendo no html da página 
+document.write("Esse script está em um arquivo externo e é referenciado no final do body do HTML"); //função de js escrevendo no html da página 
